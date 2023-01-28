@@ -5,7 +5,7 @@ Two models made are using:-
 1)Linear Regression.  
 2)Lasso Regression.  
 # Accuracy in terms of R Square Error     
-<b>Linear Regression:-<b>  
+ Linear Regression:-  
   
   On Training Data:- 0.8799451660493709   
   
@@ -15,7 +15,7 @@ Two models made are using:-
   
   ![2b897379-9583-46f7-990b-05bcb553986a](https://user-images.githubusercontent.com/81147674/215256739-b358c1d0-f801-40b6-9ae1-1576a46ed48e.png)
   
-<b>Linear Regression:-<b>  
+ Linear Regression:-  
   
   On Training Data:- 0.8427856123435794   
   
@@ -26,7 +26,7 @@ Two models made are using:-
   
   ![f72867e5-1149-4fc8-90cd-478e391c9ebd](https://user-images.githubusercontent.com/81147674/215256801-bd5aba56-e8b0-4c27-8365-b15041c336d0.png)
 
- <b>NOTE:- A split of 90%-10% was done to seperate Training and Testing Data respectively.<b>   
+  NOTE:- A split of 90%-10% was done to seperate Training and Testing Data respectively.   
    
 # Conclusion and Outakes     
 The Lasso Regression Model has better accuracy on Testing Data when compared with the Linear Regression Model.    
